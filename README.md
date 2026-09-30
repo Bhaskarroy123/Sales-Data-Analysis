@@ -1,4 +1,4 @@
-# 📊 Sales Forecasting Dashboard using SQL & Tableau
+# 📊 Sales Forecasting Dashboard Tableau
 
 ## 📌 Project Overview
 
