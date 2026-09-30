@@ -8,7 +8,7 @@ This project focuses on analyzing a sales dataset to generate meaningful insight
 
 ## 🛠️ Tools & Technologies
 
-* **SQL Server** – Data storage and query execution
+
 * **Tableau** – Data visualization and dashboard creation
 * **Microsoft Excel** – Dataset handling and preprocessing
 
@@ -31,8 +31,7 @@ Tableau is a powerful data visualization and Business Intelligence (BI) tool use
 
 ## ⚙️ Key Features
 
-* Importing dataset into SQL Server
-* Writing SQL queries for data analysis
+
 * Data visualization using Tableau
 * Creating interactive dashboards
 * Applying filters for better insights
@@ -55,7 +54,6 @@ Tableau is a powerful data visualization and Business Intelligence (BI) tool use
 ```
 sales-forecasting-dashboard/
 │── dataset.xlsx
-│── sql_queries.sql
 │── tableau_dashboard.twbx
 │── README.md
 ```
@@ -64,17 +62,16 @@ sales-forecasting-dashboard/
 
 ## 🚀 How to Run the Project
 
-1. Import dataset into SQL Server
-2. Run SQL queries for analysis
-3. Connect Tableau to SQL Server / Excel
-4. Create dashboards and apply filters
-5. Analyze insights
+
+1. Connect Tableau to SQL Server / Excel
+2. Create dashboards and apply filters
+3. Analyze insights
 
 ---
 
 ## 📌 Conclusion
 
-This project demonstrates how SQL and Tableau can be used together to transform raw data into meaningful insights and interactive dashboards, helping businesses make informed decisions.
+This project demonstrates Tableau can be used to transform raw data into meaningful insights and interactive dashboards, helping businesses make informed decisions.
 
 ---
 
